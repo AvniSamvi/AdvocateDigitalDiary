@@ -1,1 +1,1 @@
-# AdvocateDigitalDiary
+# AvniSamvi.AdvocateDigitalDiary
