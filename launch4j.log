@@ -1,0 +1,29 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Avantika Srivastava\Desktop\setup\CourtApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Avantika Srivastava\Desktop\setup\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre
+Check launcher:	C:\Users\Avantika Srivastava\Desktop\setup\bin\jre\bin\javaw.exe (OK)
+Main class:	Start
+Add classpath:	bin\lib\AbsoluteLayout.jar
+Add classpath:	bin\lib\jcalendar-1.4.jar
+Add classpath:	bin\lib\derby.jar
+Add classpath:	bin\lib\derbyclient.jar
+Add classpath:	bin\lib\derbynet.jar
+Add classpath:	bin\lib\cmu_time_awb.jar
+Add classpath:	bin\lib\cmu_us_kal.jar
+Add classpath:	bin\lib\cmudict04.jar
+Add classpath:	bin\lib\cmulex.jar
+Add classpath:	bin\lib\cmutimelex.jar
+Add classpath:	bin\lib\en_us.jar
+Add classpath:	bin\lib\freetts-jsapi10.jar
+Add classpath:	bin\lib\freetts.jar
+Add classpath:	bin\lib\mbrola.jar
+Launcher:	C:\Users\Avantika Srivastava\Desktop\setup\bin\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Avantika Srivastava\Desktop\setup\CourtApp.exe;bin\lib\AbsoluteLayout.jar;bin\lib\jcalendar-1.4.jar;bin\lib\derby.jar;bin\lib\derbyclient.jar;bin\lib\derbynet.jar;bin\lib\cmu_time_awb.jar;bin\lib\cmu_us_kal.jar;bin\lib\cmudict04.jar;bin\lib\cmulex.jar;bin\lib\cmutimelex.jar;bin\lib\en_us.jar;bin\lib\freetts-jsapi10.jar;bin\lib\freetts.jar;bin\lib\mbrola.jar" Start
+Args length:	387/32768 chars
+Exit code:	0
